@@ -1,0 +1,3 @@
+---
+mariadb_package_name: mariadb-server
+mariadb_service_name: mariadb
